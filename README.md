@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nut41tank
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on charming
+- 📫 How to reach me 6022780595@g.siit.tu.ac.th
 
 <!---
 Nut41tank/Nut41tank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
