@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on charming
-- 📫 How to reach me 6022780595@g.siit.tu.ac.th
+- 📫 How to reach me p.pruk135@gmail.com
 
 <!---
 Nut41tank/Nut41tank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
