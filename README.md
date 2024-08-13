@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nut41tank
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on charming
 - 📫 How to reach me p.pruk135@gmail.com
 
